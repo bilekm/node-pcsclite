@@ -9,4 +9,4 @@ void init_all(Local<Object> target) {
     CardReader::init(target);
 }
 
-NODE_MODULE(pcsclite, init_all)
+NAN_MODULE_WORKER_ENABLED(pcsclite, init_all)
