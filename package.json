@@ -29,9 +29,6 @@
     "smartcards"
   ],
   "author": "Santiago Gimeno <santiago.gimeno@gmail.com>",
-  "license": {
-    "type": "ISC",
-    "url": "https://github.com/bilekm/node-pcsclite/blob/master/LICENSE"
-  },
+  "license": "ISC",
   "gypfile": true
 }
